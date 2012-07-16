@@ -1,5 +1,10 @@
-EVA Theme
+#EVA Theme
 ===========
 -----------
 A EVA Theme for Sublime Text 2.
+
+## Design
+
+![EVA-theme](https://github.com/karminski/EVA-theme/EVA-theme/preview.png)
+
 
