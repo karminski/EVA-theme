@@ -6,13 +6,13 @@ Sublime Text EVA Theme
 
 ### Desc
 
-    A EVA Theme for Sublime Text 2.
-    Base on [Theme - Nexus](https://github.com/EleazarCrusader/nexus-theme) 
+A EVA Theme for Sublime Text 2.
+Base on [Theme - Nexus](https://github.com/EleazarCrusader/nexus-theme) 
 
 
 ### Previews
 
-    [EVA Theme](https://github.com/karminski/EVA-theme/raw/master/preview.png)
+[EVA Theme](https://raw.github.com/karminski/EVA-theme/master/preview.png)
 
 
 ### Install
@@ -53,4 +53,4 @@ Sublime Text EVA Theme
 
 ### Fin
 
-    Any question or advice please email me, thanks.
+Any question or advice please email me, thanks.
