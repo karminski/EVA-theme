@@ -12,12 +12,12 @@ Base on [Theme - Nexus](https://github.com/EleazarCrusader/nexus-theme)
 
 ### Previews
 
-[EVA Theme](https://raw.github.com/karminski/EVA-theme/master/preview.png)
+![](https://raw.github.com/karminski/EVA-theme/master/preview.png)
 
 
 ### Install
 
-    Just copy it to your sublime text packages folder, and choose it from your Sublime Text Menu -> Prefences -> Color Scheme -> Eva-theme.
+Just copy it to your sublime text packages folder, and choose it from your Sublime Text Menu -> Prefences -> Color Scheme -> Eva-theme.
 
 ### For Developer
 
